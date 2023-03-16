@@ -16,5 +16,7 @@
         "cmd": "autoflake.removeUnused"
       }
     ]
-  }
+  },
+  "python.linting.enabled": true,
+  "mypy.dmypyExecutable": "/Users/rahulgupta/Desktop/practice/ml/ml-specialization/venv/bin/dmypy"
 }
